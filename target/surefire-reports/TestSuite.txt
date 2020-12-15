@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 15.941 s <<< FAILURE! - in TestSuite
+CreateUser(tests.Testing3)  Time elapsed: 1.043 s  <<< FAILURE!
+java.lang.AssertionError: I am lost expected [true] but found [false]
+	at tests.Testing3.CreateUser(Testing3.java:13)
+
